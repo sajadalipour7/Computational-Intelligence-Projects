@@ -1,2 +1,2 @@
-# Two-Cars-Traffic-Control-Fuzzy
-A fuzzy controller
+# Computational Intelligence projects
+A repo
